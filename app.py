@@ -1,5 +1,5 @@
 def suma(a, b):
-    return a + b
+    return a + b + 1  # Error intencional
 
 def resta(a, b):
     return a - b
